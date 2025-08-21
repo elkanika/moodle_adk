@@ -1,0 +1,5 @@
+google-adk
+requests
+python-dotenv
+Flask
+google-generativeai
